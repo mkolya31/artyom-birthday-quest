@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/artyom-birthday-quest/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/artyom-birthday-quest/static/js/main.dd67cbe9.chunk.js",
+    "main.js.map": "/artyom-birthday-quest/static/js/main.dd67cbe9.chunk.js.map",
+    "runtime-main.js": "/artyom-birthday-quest/static/js/runtime-main.23888786.js",
+    "runtime-main.js.map": "/artyom-birthday-quest/static/js/runtime-main.23888786.js.map",
+    "static/js/2.31594020.chunk.js": "/artyom-birthday-quest/static/js/2.31594020.chunk.js",
+    "static/js/2.31594020.chunk.js.map": "/artyom-birthday-quest/static/js/2.31594020.chunk.js.map",
+    "index.html": "/artyom-birthday-quest/index.html",
+    "precache-manifest.695f8f8454ead6ef404978d47c263749.js": "/artyom-birthday-quest/precache-manifest.695f8f8454ead6ef404978d47c263749.js",
+    "service-worker.js": "/artyom-birthday-quest/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/artyom-birthday-quest/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.31594020.chunk.js.LICENSE.txt": "/artyom-birthday-quest/static/js/2.31594020.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23888786.js",
+    "static/js/2.31594020.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.dd67cbe9.chunk.js"
+  ]
+}
