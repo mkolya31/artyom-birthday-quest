@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/artyom-birthday-quest/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/artyom-birthday-quest/static/js/main.87265d72.chunk.js",
-    "main.js.map": "/artyom-birthday-quest/static/js/main.87265d72.chunk.js.map",
+    "main.js": "/artyom-birthday-quest/static/js/main.c775f012.chunk.js",
+    "main.js.map": "/artyom-birthday-quest/static/js/main.c775f012.chunk.js.map",
     "runtime-main.js": "/artyom-birthday-quest/static/js/runtime-main.23888786.js",
     "runtime-main.js.map": "/artyom-birthday-quest/static/js/runtime-main.23888786.js.map",
-    "static/js/2.5f73fc8d.chunk.js": "/artyom-birthday-quest/static/js/2.5f73fc8d.chunk.js",
-    "static/js/2.5f73fc8d.chunk.js.map": "/artyom-birthday-quest/static/js/2.5f73fc8d.chunk.js.map",
+    "static/js/2.c5cb3cfd.chunk.js": "/artyom-birthday-quest/static/js/2.c5cb3cfd.chunk.js",
+    "static/js/2.c5cb3cfd.chunk.js.map": "/artyom-birthday-quest/static/js/2.c5cb3cfd.chunk.js.map",
     "index.html": "/artyom-birthday-quest/index.html",
-    "precache-manifest.918f6732e3051b66bcfb22ee185ba716.js": "/artyom-birthday-quest/precache-manifest.918f6732e3051b66bcfb22ee185ba716.js",
+    "precache-manifest.1be473da00bec628eecd9125f956851c.js": "/artyom-birthday-quest/precache-manifest.1be473da00bec628eecd9125f956851c.js",
     "service-worker.js": "/artyom-birthday-quest/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/artyom-birthday-quest/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.5f73fc8d.chunk.js.LICENSE.txt": "/artyom-birthday-quest/static/js/2.5f73fc8d.chunk.js.LICENSE.txt"
+    "static/js/2.c5cb3cfd.chunk.js.LICENSE.txt": "/artyom-birthday-quest/static/js/2.c5cb3cfd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.23888786.js",
-    "static/js/2.5f73fc8d.chunk.js",
+    "static/js/2.c5cb3cfd.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.87265d72.chunk.js"
+    "static/js/main.c775f012.chunk.js"
   ]
 }
