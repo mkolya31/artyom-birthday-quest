@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1ffb59935b755458bade7c1131c8c86b",
+    "revision": "11f11916fecf90d31a921650a49d3f95",
     "url": "/artyom-birthday-quest/index.html"
   },
   {
-    "revision": "3861d65b9009f10e5dbf",
+    "revision": "6ff4a012ecdb3690d347",
     "url": "/artyom-birthday-quest/static/css/main.5ecd60fb.chunk.css"
   },
   {
-    "revision": "4ee47c0564dbd5f27350",
-    "url": "/artyom-birthday-quest/static/js/2.c5cb3cfd.chunk.js"
+    "revision": "62ccf6a3fd01c713adc7",
+    "url": "/artyom-birthday-quest/static/js/2.e5e8b069.chunk.js"
   },
   {
     "revision": "85d67707603d8052a17922d97b562d67",
-    "url": "/artyom-birthday-quest/static/js/2.c5cb3cfd.chunk.js.LICENSE.txt"
+    "url": "/artyom-birthday-quest/static/js/2.e5e8b069.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3861d65b9009f10e5dbf",
-    "url": "/artyom-birthday-quest/static/js/main.c775f012.chunk.js"
+    "revision": "6ff4a012ecdb3690d347",
+    "url": "/artyom-birthday-quest/static/js/main.e2bc2cb6.chunk.js"
   },
   {
     "revision": "2e2b9b18f920d090e9c1",
