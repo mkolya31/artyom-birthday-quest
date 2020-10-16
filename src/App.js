@@ -1,21 +1,34 @@
 import React from 'react'
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
-import QuestContainer from './components/QuestContainer'
+import { makeStyles } from '@material-ui/core'
+import { HashRouter as Router, Switch, Route } from 'react-router-dom'
+
+import Background from './components/background/Background'
+import WelcomePage from './pages/welcome-page/WelcomePage'
+import FirstQuestion from './pages/question-1/FirstQuestion'
+
+const useStyles = makeStyles({
+    root: {
+        width: '100vw',
+        minHeight: '100vh',
+    }
+})
 
 function App() {
 
+    const classes = useStyles()
+
     return (
-        <div>
+        <div className={classes.root} >
             <Router>
                 <Switch>
                     <Route exact path="/">
-                        <QuestContainer background="green" />
+                        <WelcomePage />
                     </Route>
-                    <Route path="/part1">
-                        <QuestContainer background="blue" />
+                    <Route path="/question-1">
+                        <FirstQuestion />
                     </Route>
                     <Route path="/part2">
-                        <QuestContainer background="yellow" />
+                        <Background color="yellow" />
                     </Route>
                 </Switch>
             </Router>
