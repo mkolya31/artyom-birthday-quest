@@ -4,6 +4,7 @@ import { HashRouter as Router, Switch, Route } from 'react-router-dom'
 
 import Background from './components/background/Background'
 import WelcomePage from './pages/welcome-page/WelcomePage'
+import FirstQuestion from './pages/question-1/FirstQuestion'
 
 const useStyles = makeStyles({
     root: {
@@ -24,7 +25,7 @@ function App() {
                         <WelcomePage />
                     </Route>
                     <Route path="/question-1">
-                        <Background color="blue" />
+                        <FirstQuestion />
                     </Route>
                     <Route path="/part2">
                         <Background color="yellow" />
