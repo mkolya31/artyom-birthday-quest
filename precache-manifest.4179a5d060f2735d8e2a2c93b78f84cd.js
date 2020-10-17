@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "520d89dfde8c4700aecac6f87beb4cfa",
+    "revision": "21e4c4c7908c61b1c91c38247c08662d",
     "url": "/artyom-birthday-quest/index.html"
   },
   {
-    "revision": "e54cd68489d71272ee7a",
+    "revision": "cf47d64ef7d967e449a3",
     "url": "/artyom-birthday-quest/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/artyom-birthday-quest/static/js/2.676fbf78.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e54cd68489d71272ee7a",
-    "url": "/artyom-birthday-quest/static/js/main.525b0cc6.chunk.js"
+    "revision": "cf47d64ef7d967e449a3",
+    "url": "/artyom-birthday-quest/static/js/main.d4a43747.chunk.js"
   },
   {
     "revision": "2e2b9b18f920d090e9c1",

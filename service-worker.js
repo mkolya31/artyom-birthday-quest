@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/artyom-birthday-quest/precache-manifest.2672ec31d0ad30cf0db0852521c67e78.js"
+  "/artyom-birthday-quest/precache-manifest.4179a5d060f2735d8e2a2c93b78f84cd.js"
 );
 
 self.addEventListener('message', (event) => {

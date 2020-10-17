@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/artyom-birthday-quest/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/artyom-birthday-quest/static/js/main.525b0cc6.chunk.js",
-    "main.js.map": "/artyom-birthday-quest/static/js/main.525b0cc6.chunk.js.map",
+    "main.js": "/artyom-birthday-quest/static/js/main.d4a43747.chunk.js",
+    "main.js.map": "/artyom-birthday-quest/static/js/main.d4a43747.chunk.js.map",
     "runtime-main.js": "/artyom-birthday-quest/static/js/runtime-main.23888786.js",
     "runtime-main.js.map": "/artyom-birthday-quest/static/js/runtime-main.23888786.js.map",
     "static/js/2.676fbf78.chunk.js": "/artyom-birthday-quest/static/js/2.676fbf78.chunk.js",
     "static/js/2.676fbf78.chunk.js.map": "/artyom-birthday-quest/static/js/2.676fbf78.chunk.js.map",
     "index.html": "/artyom-birthday-quest/index.html",
-    "precache-manifest.2672ec31d0ad30cf0db0852521c67e78.js": "/artyom-birthday-quest/precache-manifest.2672ec31d0ad30cf0db0852521c67e78.js",
+    "precache-manifest.4179a5d060f2735d8e2a2c93b78f84cd.js": "/artyom-birthday-quest/precache-manifest.4179a5d060f2735d8e2a2c93b78f84cd.js",
     "service-worker.js": "/artyom-birthday-quest/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/artyom-birthday-quest/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.676fbf78.chunk.js.LICENSE.txt": "/artyom-birthday-quest/static/js/2.676fbf78.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.23888786.js",
     "static/js/2.676fbf78.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.525b0cc6.chunk.js"
+    "static/js/main.d4a43747.chunk.js"
   ]
 }
